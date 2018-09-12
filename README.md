@@ -1,3 +1,5 @@
+[![CircleCI (all branches)](https://img.shields.io/circleci/project/github/bellstrand/docker-java8.svg)](https://circleci.com/gh/bellstrand/docker-java8)
+
 # Docker Java 8
 ### Based on Ubuntu 18.04 (Bionic Beaver)
 ----
